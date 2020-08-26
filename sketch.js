@@ -76,7 +76,6 @@ function draw() {
     trex.velocityY = -10;
   }
   
-    console.log(trex.y);
   trex.velocityY = trex.velocityY + 0.8
   
   if (ground.x < 0){
